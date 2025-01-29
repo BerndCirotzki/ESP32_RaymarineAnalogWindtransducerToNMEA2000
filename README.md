@@ -3,7 +3,9 @@ This Code converts the analog Winddransducer Data to NMEA2000.
 The Setting can be done via Bluetooth.
 - calibrition
 - Windangle correction
-- Windspeedcorrectin
+- Windspeedcorrection
+- could be mounted parallel to Raymarine Instuments (p.E ST60)
+- send out NMEA2000 Data
  
 ## used Librarys
 - NMEA2000 Library https://github.com/ttlappalainen/NMEA2000
