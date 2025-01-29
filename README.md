@@ -18,3 +18,4 @@ The Setting can be done via Bluetooth.
   
 ### Circuit diagram
     
+![Raymarine Windtransducer to NMEA2000](https://github.com/user-attachments/assets/3da0d31f-4c62-4c38-938b-760570098d73)
