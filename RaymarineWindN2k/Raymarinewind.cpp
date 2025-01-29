@@ -2,8 +2,6 @@
  Raymarinewind.cpp by Bernd Cirotzki
 
  **********************************************************************/
-#include "Config.h" // Make Global Settings here
-
 #include "Raymarinewind.h"
 #include "BluetoothStream.h"
 
